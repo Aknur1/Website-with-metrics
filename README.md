@@ -1,6 +1,6 @@
 # Website-with-metrics
 http://aknur.co.nf/
 1) Metrics JS code in file metrics.txt (also in html files). There are Google Analytics, Yandex metrics, zero.kz
-2) Web masters added as files (bing, google, mail.ru). But, yandex was added with tag in html files <meta name="yandex-verification" content="34c43d1db6f0b0b9" />.
+2) Web masters added as files in webtools-upload (bing, google, mail.ru). But, yandex was added with tag in html files <meta name="yandex-verification" content="34c43d1db6f0b0b9" />.
 3) There are photos in webtools file that checks robots.txt and sitemap.xml
 4) There are files: robots.txt and sitemap.xml
