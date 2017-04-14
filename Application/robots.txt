@@ -1,0 +1,23 @@
+User-agent: Yandex
+Disallow: 
+Host: aknur.co.nf
+Sitemap: http://aknur.co.nf/sitemap.xml
+#для Yandex
+
+User-agent: Googlebot
+Disallow: 
+Host: aknur.co.nf
+Sitemap: http://aknur.co.nf/sitemap.xml
+#для Google
+
+User-agent: Mail.RU_Bot
+Disallow: 
+Host: aknur.co.nf
+Sitemap: http://aknur.co.nf/sitemap.xml
+#для mail.ru
+
+User-agent: *
+Disallow: 
+Host: aknur.co.nf
+Sitemap: http://aknur.co.nf/sitemap.xml
+#для всех
